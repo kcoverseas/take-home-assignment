@@ -3,13 +3,15 @@ Thank you for taking the time to do our technical assignment!!
 
 This is meant as a take home assignment for anyone who is wishing to join KC Overseas' tech team. This assignment is very critical for us in making a decision on whether to hire you or not!. It tells us about your coding style, code quality, proficiency and problem solving skills. So, get ready to give it your best!
 
-In order to avoid confusion on how to run your code we would like you to submit your results by pushing the code to a separate branch in this repo itself. 
+In order to avoid confusion on how to run your code we would like you to submit your results by pushing the code to a separate repository in your personal github account. 
 
-    1. Please make a branch named as {yourname}-{role-applied-for} off of the main branch of this repo:
+    1. Please download the zip file for this repo. Add your code and push it to a newly created public repo in your account.
     
-    2. After you have finished the assignment, please commit your code in the above branch (Make sure to have a proper commit message).
+    2. Please make a repo named as {yourname}-{role-applied-for}.
     
-    3. Finally, push your code to the above branch.
+    3. After you have finished the assignment, please commit and push your code (Make sure to have a proper commit message) to your newly created repo.
+    
+    4. Finally, share the repo with 'prachet@kcoverseas.com' & 'upandey@kcoverseas.com'.
 
 ## Description
 You have to work on creating an employee  calendar for all the exployees of the company that will tell us the available slots for a meeting.
@@ -45,7 +47,7 @@ I can select a specific available meeting slot from the dropdown.
 I can click on the submit button to finally book the meeting for the two employees.
 
 I should not be able to book any more meetings for those two employees for the above time slot. 
-I should not be able to book a meeting between the above two employees and other employees of the company
+I should not be able to book a meeting between the above two employees and other employees of the company for the above time slot.
 
 ## Task Requirements
     1. Design APIs for all operations such as: viewing all employees, viewing available meeting slots and booking a meeting.
