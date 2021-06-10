@@ -16,8 +16,8 @@ In order to avoid confusion on how to run your code we would like you to submit 
 ## Description
 You have to work on creating an employee  calendar for all the exployees of the company that will tell us the available slots for a meeting.
 
-## Platform Choice
-You have to create the application as web application in .NET Core (use MVC Framework) or Python (use Django & Django Rest Framework for APIs).
+## Tech Stack
+You have to create the application as web application in .NET Core (use MVC Framework).
 
 Use SQL Server(Newer Versions) to perform database transactions and to store data.
 
@@ -36,7 +36,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 As a user running the application
 I can view a list of all employees in the company on the home page. So that I know which employees are currently available
 
-I can also view a 'Book a Meeting' button beisde each employee
+I can also view a 'Book a Meeting' button beside each employee
 I can use the button to book a meeting with that respective employee. On clicking the button a modal popup will open.
 I can see 'Select Employee' dropdown, 'Meeting Slot' dropdown and a submit button on the popup.
 
@@ -55,4 +55,4 @@ I should not be able to book a meeting between the above two employees and other
     2. Run the SQL script from the file 'SampleData.sql' to make a database, make the required tables and add sample data.
 
 ### Thanks for your time, we look forward to hearing from you!
-### The KC Tech team
+### The KC Tech Team
