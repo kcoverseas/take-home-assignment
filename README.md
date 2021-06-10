@@ -3,7 +3,7 @@ Thank you for taking the time to do our technical assignment!!
 
 This is meant as a take home assignment for anyone who is wishing to join KC Overseas' tech team. This assignment is very critical for us in making a decision on whether to hire you or not!. It tells us about your coding style, code quality, proficiency and problem solving skills. So, get ready to give it your best!
 
-In order to avoid confusion on how to run your code we would like you to submit your results by pushing the code to a separate repository in your personal github account. 
+In order to avoid confusion on how to run your code we would like you to submit your results by pushing the code to a separate repository in your personal GitHub account. 
 
     1. Please download the zip file for this repo. Add your code and push it to a newly created public repo in your account.
     
@@ -14,7 +14,7 @@ In order to avoid confusion on how to run your code we would like you to submit 
     4. Finally, share the repo with 'prachet@kcoverseas.com' & 'upandey@kcoverseas.com'.
 
 ## Description
-You have to work on creating an employee  calendar for all the exployees of the company that will tell us the available slots for a meeting.
+You have to work on creating an employee  calendar for all the employees of the company that will tell us the available slots for a meeting.
 
 ## Tech Stack
 You have to create the application as web application in .NET Core (use MVC Framework).
